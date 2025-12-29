@@ -1,25 +1,25 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 const projects = [{
-  client: 'Lumina',
+  client: 'Hyperscalers',
   type: 'Rebrand & Strategy',
-  year: '2023'
+  year: '2025'
 }, {
-  client: 'Apex Ventures',
-  type: 'Content Series',
-  year: '2023'
+  client: 'Film Trybe',
+  type: 'Design Direction',
+  year: '2025'
 }, {
-  client: 'Oasis',
-  type: 'Digital Experience',
+  client: 'Cifi',
+  type: 'Content Creation',
   year: '2022'
 }, {
-  client: 'Velvet & Steel',
-  type: 'Fashion Film',
+  client: 'Seventh-Day Adventist Church',
+  type: 'Design Materials',
   year: '2022'
 }, {
-  client: 'Horizon',
-  type: 'Brand Identity',
-  year: '2021'
+  client: 'Total Energies',
+  type: 'Content Creation',
+  year: '2025'
 }];
 export function Projects() {
   return <section className="py-32 px-6 md:px-12 bg-nudge-black">
