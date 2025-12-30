@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { motion } from 'framer-motion';
 export function Closing() {
   return <section className="min-h-[70vh] flex flex-col items-center justify-center px-6 text-center relative overflow-hidden">
