@@ -20,9 +20,7 @@ export function CreativeDirector() {
             <div className="absolute inset-0 bg-gradient-to-tr from-nudge-black/40 to-transparent mix-blend-multiply" />
             {/* Placeholder for Director Image */}
             <div className="w-full h-[120%] bg-neutral-800 flex items-center justify-center">
-              <span className="text-nudge-muted/10 text-9xl font-serif">
-                IMG
-              </span>
+             <img src="public/assets/mayowa.jpg" alt=""  />
             </div>
           </motion.div>
         </div>
@@ -35,7 +33,7 @@ export function CreativeDirector() {
             Creative Director
           </span>
           <h2 className="text-4xl md:text-5xl font-serif mb-8 leading-tight">
-            Elena Vance
+            Mayowa Adeyeye
           </h2>
           <div className="space-y-6 text-nudge-muted text-lg font-light leading-relaxed">
             <p>
@@ -43,13 +41,13 @@ export function CreativeDirector() {
               a good video and a great one isn't budget—it's intention."
             </p>
             <p>
-              With over a decade in documentary film and brand strategy, Elena
+              With over a decade in documentary film and brand strategy, Mayowa
               leads Nudge Media with a philosophy rooted in authenticity and
               aesthetic discipline.
             </p>
           </div>
           <div className="mt-12">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Signature_sample.svg" alt="Signature" className="h-12 opacity-50 invert" />
+            <img src="public/assets/afobaje2.png" alt="Signature" className="h-60 opacity-50 invert" />
           </div>
         </motion.div>
       </div>

@@ -32,7 +32,7 @@ export function Projects() {
         once: true
       }}>
           <h2 className="text-3xl font-serif">Selected Projects</h2>
-          <span className="text-nudge-muted text-sm">2021 — 2023</span>
+          <span className="text-nudge-muted text-sm">2021 — 2025</span>
         </motion.div>
 
         <div className="space-y-0">

@@ -31,7 +31,7 @@ export function Closing() {
 
       {/* Footer Info */}
       <div className="absolute bottom-8 left-0 w-full px-8 flex flex-col md:flex-row justify-between items-center text-xs text-nudge-muted/40 uppercase tracking-wider">
-        <span>© 2024 Nudge Media</span>
+        <span>© 2025 Nudge Media</span>
         <div className="flex gap-6 mt-4 md:mt-0">
           <a href="#" className="hover:text-nudge-accent transition-colors">
             Instagram
